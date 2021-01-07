@@ -1,9 +1,11 @@
 # email
-formulário que envia email com HTML, CSS e PHP
+este é formulário que envia email com HTML, CSS e PHP.
 
-o objetivo é somente treinar HTML e CSS. PHP não tenho nem conhecimentos básicos
+foi realizado através do tutorial do canal de Youtube Programador BR, do Igor Oliveira.
 
-o código PHP é somente uma cópia do tutorial. o CSS tem algumas alterações personalizadas.
+o objetivo é somente treinar HTML e CSS. PHP não tenho conhecimentos básicos.
+
+o código PHP não foi testado. o CSS tem algumas alterações personalizadas.
 
 no arquivo PHP, o VSCode está acusando um erro na linha 3, na seguinte parte do código " if(isset($_POST['email']) && !empty($_POST['email']) { "
 
