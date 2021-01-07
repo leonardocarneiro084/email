@@ -1,5 +1,5 @@
 # email
-este é formulário que envia email com HTML, CSS e PHP.
+este é um formulário que envia email com HTML, CSS e PHP.
 
 foi realizado através do tutorial do canal de Youtube Programador BR, do Igor Oliveira.
 
